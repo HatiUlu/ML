@@ -5,7 +5,7 @@
     "colab": {
       "provenance": [],
       "authorship_tag": "ABX9TyMNTELYJjmzuxzLt3T0iYLu",
-      "include_colab_link": true
+      "include_colab_link": True
     },
     "kernelspec": {
       "name": "python3",
@@ -76,7 +76,7 @@
         "id": "CdGVaC2cg8RI",
         "outputId": "22cd405b-f87b-4c4b-848d-4b9debcc6fc8"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -127,7 +127,7 @@
         "id": "KIu2JuC3gDbn",
         "outputId": "a6b6d63f-332b-4655-d77e-d430b916df8c"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -192,7 +192,7 @@
         "id": "zSJrM7B3f3Vv",
         "outputId": "cd939b88-7cbd-4164-ca0e-cfce3e460485"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -290,7 +290,7 @@
         "id": "IAAnzYikfqc_",
         "outputId": "cb56a2c8-ca04-49b7-dff5-de98da60f784"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -400,7 +400,7 @@
         "id": "tonns3uffdqc",
         "outputId": "e350f83f-5527-4212-a59d-140471c3d750"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -575,7 +575,7 @@
         "id": "cyCHiF93fLtY",
         "outputId": "1c5c833b-ee12-4af2-c020-7f4d0476e0d5"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -670,7 +670,7 @@
         "id": "nSI9ln8Ue8JZ",
         "outputId": "994f6f4c-0d6b-4693-997a-9da89ea352cd"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -854,7 +854,7 @@
         "id": "gBIq3npgh9XR",
         "outputId": "a8310dc9-6e31-474c-dde2-65337b0ba4ec"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
